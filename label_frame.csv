@@ -1,0 +1,13 @@
+Label ,Activiteit
+1,Lopen
+2,Lopen_Trap_op 
+3,Lopen_Trap_af 
+4,Zitten
+5,Staan
+6,Liggen
+7,Staan_Naar_Zitten
+8,Zitten_Naar_Staan
+9,Zitten_Naar_Liggen
+10,Liggen_Naar_Zitten
+11,Staan_Naar_Liggen
+12,Liggen_Naar_Staan
